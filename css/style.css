@@ -2,6 +2,7 @@
     margin: o;
     padding: o;
     font-family: sans-serif;
+    background-color: aquamarine;
    
 }
 .navbar{
@@ -55,6 +56,13 @@ span{
 #about p{
     color: #555;
     line-height: 18px;
+}
+.images{
+    width: 45%;
+    height: 60%;
+    position:static;
+    bottom: 0;
+    right: 10px;
 }
 
 
