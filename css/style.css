@@ -45,8 +45,12 @@ margin-left: 4%;
 margin-top: 8%;
 }
 #about h2{
-    font-size: 50px;
-    
+    font-size: 30px;
+    color:rgb(145, 86, 241);
+    margin-bottom: 12px;
+}
+span{
+    color:blueviolet
 }
 
 
