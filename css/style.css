@@ -6,9 +6,8 @@
    
 }
 .navbar{
-    width: 100%;
+    width: 80%;
     color: #fff;
-    background-color: blueviolet;
     height: 70px;
 }
 .navbar .container{
