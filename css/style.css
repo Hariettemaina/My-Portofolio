@@ -62,7 +62,7 @@ span{
     bottom: 0;
     right: 10px;
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 380px) {
     body {
         background-color: aliceblue;
         color: white;
