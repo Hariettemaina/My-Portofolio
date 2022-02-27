@@ -39,9 +39,14 @@ body{
 
 .detail{
     margin-right: 8%;
-    margin-bottom: 15%;
+    margin-bottom: 5%;
 }
 .detail h1{
     font-size: 50px;
     color: #212121;
+    margin-bottom: 20px;
+}
+#personal{
+    color: blueviolet;
+    font-size: 45px;
 }
