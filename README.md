@@ -1,6 +1,6 @@
 # my-portfolio website
 
-##### Kiplangat Meshack
+##### Hariette Maina
 
 ### It is a description of my portfolio which describes my entire journey as a developer and my qualifications too (my portfolio).
 
