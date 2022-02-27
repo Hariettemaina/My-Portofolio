@@ -4,7 +4,14 @@
     font-family: sans-serif;
    
 }
-
-
-
-   
+body{
+    background-image: url(../images/annie-spratt-pKpipZVVEC0-unsplash.jpg);
+    background-size: cover;
+}
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+    position: absolute;
+    top: 5%;
+    left: 60%;
+}
