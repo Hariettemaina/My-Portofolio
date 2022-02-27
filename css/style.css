@@ -2,7 +2,6 @@
     margin: o;
     padding: o;
     font-family: sans-serif;
-    background-color: aquamarine;
    
 }
 .navbar{
@@ -69,6 +68,9 @@ span{
         color: white;
     }
     
+}
+body{
+    background-image: url(../images/ruvim-noga-o0R4iqk1eRQ-unsplash.jpg);
 }
 
 
