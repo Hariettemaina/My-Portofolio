@@ -50,3 +50,7 @@ body{
     color: blueviolet;
     font-size: 45px;
 }
+
+.content{
+    display: flex;
+}
