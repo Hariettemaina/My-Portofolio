@@ -72,6 +72,13 @@ span{
 body{
     background-image: url(../images/annie-spratt-pKpipZVVEC0-unsplash.jpg);
 }
+.images{
+    float:inline-end;
+    width: 45%;
+    height: 80%;
+    bottom: 0;
+    right: 100px;
+    }
 
 
    
