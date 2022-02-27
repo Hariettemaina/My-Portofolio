@@ -5,7 +5,7 @@
    
 }
 body{
-    background-image: url(../images/annie-spratt-pKpipZVVEC0-unsplash.jpg);
+    background-image: url(../images/josh-rose-trYl7JYATH0-unsplash.jpg);
     background-size: cover;
 }
 .navbar ul{
@@ -29,7 +29,7 @@ body{
 }
 
 .logo{
-    color:blueviolet;
+    color:aquamarine;
     font-weight: 600;
     font-style: italic;
     font-size: 1.6rem;
@@ -40,6 +40,7 @@ body{
 .detail{
     margin-right: 8%;
     margin-bottom: 5%;
+    color: wheat;
 }
 .detail h1{
     font-size: 50px;
@@ -47,10 +48,24 @@ body{
     margin-bottom: 20px;
 }
 #personal{
-    color: blueviolet;
+    color: #ff0;
     font-size: 45px;
 }
 
 .content{
     display: flex;
 }
+span{
+    color:chocolate
+}
+.list{
+    color:#ff0;
+}
+.list lo li a:hover{
+    color: red;
+    font-size: x-large;
+}
+.images{
+    width: 45px;
+    height: 80%;
+}    
