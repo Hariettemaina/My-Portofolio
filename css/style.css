@@ -54,6 +54,7 @@ body{
 
 .content{
     display: flex;
+    float: center;
 }
 span{
     color:chocolate
